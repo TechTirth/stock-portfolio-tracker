@@ -4,11 +4,6 @@ The Portfolio Tracker app allows a user to track their shareholdings performance
 Built using MongoDB, Express, React, Node.
 
 
-## Video Demo and Screenshots
-
-Demo: https://youtu.be/f05D_Hy-H0Y
-
-
 Portfolio / Home Page
 
 ![Screenshot of Portfolio page](images/PortfolioHomePage.png "Portfolio")
